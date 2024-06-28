@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "CodeGPT.apiKey": "Google AI Studio"
+}
